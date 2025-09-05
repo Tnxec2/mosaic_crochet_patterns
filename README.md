@@ -2,6 +2,6 @@
 
 ## Lady Di Sheep
 
-![Lady Di Sheep](Lady Di sheep.png)
+![Lady Di Sheep](Lady_Di_sheep.png)
 
-[pattern](Lady Di sheep.json)
+[pattern](Lady_Di_sheep.json)
