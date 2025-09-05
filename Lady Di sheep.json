@@ -1,0 +1,8374 @@
+{
+  "pattern": [
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": "x"
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": "x"
+      },
+      {
+        "colorindex": 0,
+        "type": ""
+      }
+    ],
+    [
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      },
+      {
+        "colorindex": 1,
+        "type": ""
+      }
+    ]
+  ],
+  "colors": [
+    "#ffffff",
+    "#db3939"
+  ],
+  "selectedColorIndex": 1,
+  "selectedAction": "x",
+  "scaleFactor": 0.9,
+  "saved": true,
+  "name": "Lady Di sheep",
+  "previewFontSize": 10
+}
