@@ -2,21 +2,26 @@
 
 ## Lady Di Sheep
 
-Image: [Lady Di Sheep](Lady_Di_sheep.png) 
+Image: [Lady Di Sheep](patterns/Lady_Di_sheep.png) 
 
-JSON: [pattern](Lady_Di_sheep.json)
+JSON: [pattern](patterns/Lady_Di_sheep.json)
 
 ## Two cats on windows
 
-Image: [Two cats](mosaic_crochet_two_cats_on_window.png) 
+Image: [Two cats](patterns/mosaic_crochet_two_cats_on_window.png) 
 
-Writed: [Two cats writed](mosaic_crochet_two_cats_on_window_writted.pdf) 
+Writed: [Two cats writed](patterns/mosaic_crochet_two_cats_on_window_writted.pdf) 
 
-JSON: [pattern](mosaic_crochet_two_cats_on_window.json)
+JSON: [pattern](patterns/mosaic_crochet_two_cats_on_window.json)
 
 ## Cat chart
 
-Image: [cat](cat.chart.png) 
+Image: [cat](patterns/cat.chart.png) 
 
-JSON: [pattern](cat.chart.json)
+JSON: [pattern](patterns/cat.chart.json)
 
+## Heart shaped dachshund dog
+
+Image: [dog](patterns/mosaic_crochet-heart_shaped_dachshund_dog.png)
+
+JSON: [pattern](patterns/mosaic_crochet-heart_shaped_dachshund_dog.json)
